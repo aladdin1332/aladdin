@@ -9,11 +9,10 @@ justify-content: space-between;
 .hero {
     background: white url(images/hero.jpg) no-repeat center center;
     background-size: cover;
-    
 
     width: 100%;
     height: calc(100vh - 55px);
-
+    color: #7e9d4d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,4 +35,9 @@ justify-content: space-between;
 .newsletter
 {
   color:  #fff;
+}
+.gallery
+{
+
+
 }
