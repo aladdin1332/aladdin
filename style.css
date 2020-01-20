@@ -3,13 +3,13 @@
 }   
 .menu
 {
-    display: flex;
+display: flex;
 justify-content: space-between;
 }
 .hero {
     background: white url(images/hero.jpg) no-repeat center center;
     background-size: cover;
-    fo
+    
 
     width: 100%;
     height: calc(100vh - 55px);
@@ -36,5 +36,4 @@ justify-content: space-between;
 .newsletter
 {
   color:  #fff;
-}
 }
