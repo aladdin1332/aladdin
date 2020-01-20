@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-}
+}   
 .menu
 {
     display: flex;
@@ -9,6 +9,7 @@ justify-content: space-between;
 .hero {
     background: white url(images/hero.jpg) no-repeat center center;
     background-size: cover;
+    fo
 
     width: 100%;
     height: calc(100vh - 55px);
@@ -22,4 +23,13 @@ justify-content: space-between;
 
     color: #fff;
     text-transform: uppercase;
+}
+.header{
+    background-color:#1313c0 ;
+}
+.main{
+    background-color:#1313c0;
+}
+.services{
+    color: #fff;
 }
